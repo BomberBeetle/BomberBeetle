@@ -9,7 +9,7 @@
 - 📚 Technician's Degree in Computing @ ETESP
 
 ## Hard Skills
-- 🖥 WebDev: HTML/CSS/JS, basic React.JS and Bootstrap
+- 🖥 WebDev: HTML/CSS/JS, React.JS and Bootstrap
 - ⌨ Programming Languages: C#, JS/TS, C, Java and Python
 - 🗄 Relational Databases and basic SQL
 

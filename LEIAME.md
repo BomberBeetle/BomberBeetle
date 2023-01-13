@@ -8,9 +8,9 @@
 - 📚 Formado **Técnico em Informatica** na Escola Técnica Estadual de São paulo
 
 ## Hard Skills
-- 🖥 WebDev: HTML/CSS/JS, basic React.JS and Bootstrap
-- ⌨ Programming Languages: C#, JS/TS, C, Java and Python
-- 🗄 Relational Databases and basic SQL
+- 🖥 WebDev: HTML/CSS/JS, React.JS and Bootstrap
+- ⌨ Programming Languages: C#, JS/TS, C, Java e Python
+- 🗄 Relational Databases e SQL básico
 
 ## Projetos Relevantes
 

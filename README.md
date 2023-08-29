@@ -5,7 +5,7 @@
 - ❤️ Driven to develop to help those around me
 - 🇧🇷 Brazilian
 - 🌎 Bilingual (**English (Fluent)** and **Portuguese (Native)**)
-- 🎓 Currently studying **CompSci** @ the São Paulo State University (IFSP)
+- 🎓 Currently studying **CompSci** @ the São Paulo Federal Institute(IFSP)
 - 📚 Technician's Degree in Computing @ ETESP
 
 ## Hard Skills
@@ -13,6 +13,4 @@
 - ⌨ Programming Languages: C#, JS/TS, C, Java and Python
 - 🗄 Relational Databases and basic SQL
 
-## Relevant Projects
-
-I'm adding this later! Meanwhile, you can check out my repos or my (admittedly underdeveloped) website linked in my profile!
+Be sure to check my pinned repos for relevant projects!

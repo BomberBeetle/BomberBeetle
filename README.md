@@ -12,6 +12,6 @@
 - 🖥 Front-end: HTML/CSS/JS, React.JS and Bootstrap
 - 💼 Web Frameworks: .NET Core/Framework, ASP.NET, JSF, Spring
 - ⌨ Programming Languages: C#, JS/TS, C, Java, Haskell and Python
-- 🗄 Relational Databases and basic SQL
+- 🗄 Relational Databases (SQL Server, MySQL), Database Modeling and Queries
 
 Be sure to check my pinned repos for relevant projects!

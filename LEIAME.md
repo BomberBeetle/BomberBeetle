@@ -12,6 +12,4 @@
 - ⌨ Programming Languages: C#, JS/TS, C, Java e Python
 - 🗄 Relational Databases e SQL básico
 
-## Projetos Relevantes
-
-Vou colocar isso depois! Enquanto isso, você pode olhar meus repositórios ou meu site (admitidamente subdesenvolvido) linkado no meu perfil!
+Veja meus repositórios alfinetados para ver projetos relevantes!

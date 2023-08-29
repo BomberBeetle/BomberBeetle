@@ -9,8 +9,9 @@
 - 📚 Technician's Degree in Computing @ ETESP
 
 ## Hard Skills
-- 🖥 WebDev: HTML/CSS/JS, React.JS and Bootstrap
-- ⌨ Programming Languages: C#, JS/TS, C, Java and Python
+- 🖥 Front-end: HTML/CSS/JS, React.JS and Bootstrap
+- 💼 Web Frameworks: .NET Core/Framework, ASP.NET, JSF, Spring
+- ⌨ Programming Languages: C#, JS/TS, C, Java, Haskell and Python
 - 🗄 Relational Databases and basic SQL
 
 Be sure to check my pinned repos for relevant projects!

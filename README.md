@@ -5,7 +5,7 @@
 - ❤️ Driven to develop to help those around me
 - 🇧🇷 Brazilian
 - 🌎 Bilingual (**English (Fluent)** and **Portuguese (Native)**)
-- 🎓 Currently studying **CompSci** @ the São Paulo Federal Institute(IFSP)
+- 🎓 Bachelor's in Computer Science @ the São Paulo Federal Institute(IFSP)
 - 📚 Technician's Degree in Computing @ ETESP
 
 ## Hard Skills
